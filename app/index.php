@@ -57,8 +57,8 @@
 		</div>
 
         <footer>
-	        <h2><i>Decagon:</i> Todo App Powered Develope by Yusuf</h2>
-            <a class="porfolio" href="https://lawalyusuf.herokuapp.com">Head on to <i>Tutorial<b>zine</b></i> to read and download</a>
+	        <h2><i>Decagon:</i> Todo App Develop by Yusuf</h2>
+            <a class="porfolio" href="https://lawalyusuf.herokuapp.com">Head on to <i>Portfolio<b>Yusuf</b></i> Portfolio</a>
         </footer>
         
         <!-- JavaScript includes.  -->
